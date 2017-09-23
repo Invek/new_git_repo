@@ -4,5 +4,6 @@ int main(void)
 {
 	printf("Hello World");
 	printf("new line baby");
+	printf("New Feature Added!");
 	return(0);
 }
